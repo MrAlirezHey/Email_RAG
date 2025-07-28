@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Google credentials and tokens
+token.json
+credentials.json
+
+# Output directory
+emails_md/
+
+# OS generated files
+.DS_Store
+Thumbs.db
